@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "//psf/Home/Documents/Lettuce Buddy HW/Healthy EC Test PCB/Test2/Kicad/Gerbers - second test/"))
+      (outputdirectory "//psf/Home/Documents/Lettuce Buddy HW/Healthy EC Test PCB/Test3/Kicad/Gerbers/"))
   )
 
   (net 0 "")
