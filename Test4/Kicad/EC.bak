@@ -767,4 +767,12 @@ Wire Notes Line
 	800  7100 800  4600
 Text HLabel 1350 6000 0    60   Output ~ 0
 EC_Meas
+Text Label 5550 6450 0    60   ~ 0
+pin 13
+Text Label 5200 5900 0    60   ~ 0
+pin 14
+Text Label 4600 5500 0    60   ~ 0
+DD
+Text Label 1800 5500 0    60   ~ 0
+pin 1
 $EndSCHEMATC

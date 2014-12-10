@@ -38,7 +38,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title ""
-Date "8 dec 2014"
+Date "10 dec 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -682,9 +682,7 @@ Wire Wire Line
 Wire Wire Line
 	3150 6100 3150 6850
 Wire Wire Line
-	3150 6850 1800 6850
-Wire Wire Line
-	1800 6850 1800 4800
+	3150 6850 1650 6850
 $Comp
 L R R1
 U 1 1 54860E67
@@ -768,11 +766,15 @@ Wire Notes Line
 Text HLabel 1350 6000 0    60   Output ~ 0
 EC_Meas
 Text Label 5550 6450 0    60   ~ 0
-pin 13
+pin 13&3
 Text Label 5200 5900 0    60   ~ 0
 pin 14
 Text Label 4600 5500 0    60   ~ 0
 DD
-Text Label 1800 5500 0    60   ~ 0
-pin 1
+Wire Wire Line
+	1800 4800 1800 6000
+Connection ~ 1800 6000
+Wire Wire Line
+	1650 6850 1650 6000
+Connection ~ 1650 6000
 $EndSCHEMATC

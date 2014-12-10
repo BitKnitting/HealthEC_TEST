@@ -1168,7 +1168,7 @@
   (segment (start 34.3154 35.4584) (end 31.8008 37.973) (width 0.254) (layer B.Cu) (net 3) (tstamp 5486E7EB))
   (segment (start 36.83 29.972) (end 35.179 29.972) (width 0.254) (layer F.Cu) (net 3))
   (segment (start 34.3154 29.1084) (end 36.703 32.3596) (width 0.254) (layer B.Cu) (net 3) (tstamp 5486E242))
-  (via (at 34.3154 29.1084) (size 2.032) (layers F.Cu B.Cu) (net 3))
+  (via (at 34.3154 29.1084) (size 2.032) (layers F.Cu B.Cu) (net 3) (status 1000000))
   (segment (start 35.179 29.972) (end 34.3154 29.1084) (width 0.254) (layer F.Cu) (net 3) (tstamp 5486E237))
   (segment (start 34.05886 31.00324) (end 34.5059 31.00324) (width 0.254) (layer F.Cu) (net 3))
   (segment (start 35.53714 29.972) (end 36.83 29.972) (width 0.254) (layer F.Cu) (net 3) (tstamp 5486DCA1))
